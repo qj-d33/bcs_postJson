@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bcs_postJson", "bcs_postJson\bcs_postJson.csproj", "{ADA69FCB-D61E-4AF0-B25D-A5C153AFE909}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{0EF28355-F478-448C-8CE2-898A977F9F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA69FCB-D61E-4AF0-B25D-A5C153AFE909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA69FCB-D61E-4AF0-B25D-A5C153AFE909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA69FCB-D61E-4AF0-B25D-A5C153AFE909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA69FCB-D61E-4AF0-B25D-A5C153AFE909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66EA7108-AB35-4C16-B8F0-CF326C65E77E}
+	EndGlobalSection
+EndGlobal
